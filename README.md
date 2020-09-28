@@ -4,13 +4,13 @@
 
 I live in MASS, United States of America.
 
-### Reading
+### connection
 
-Three of my favorite books are:
+My favorite persons are:
 
-- *Mindstorms* by Seymour Papert
-- *Welcome to the Monkey House* by Kurt Vonnegut
-- *threebody* by CiXin Liu
+- *SONGSHU*
+- *JER*
+
 
 ### Food
 
@@ -23,4 +23,4 @@ Last night I dreamt about eating in these restaurants:
 ### Contact
 
 The best way to get in touch with me is on nowhere.
-"This is the End.".
+*This is the End.*
